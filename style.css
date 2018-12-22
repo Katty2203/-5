@@ -1,0 +1,7 @@
+#showcontent {
+	display: none;
+}
+
+#showcontent:target {
+	display: block;
+}
